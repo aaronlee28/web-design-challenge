@@ -14,10 +14,10 @@ a1 {
 .box {
   /* Absolute Position */
   position: relative;
-  width:900px;
-  height: 700px;
-  color: #fff;
-  background: rgb(255, 255, 255);
+  width:400px;
+  height: 300px;
+  color: rgb(236, 228, 228);
+  background: rgb(187, 36, 36);
 }
 .box2 {
   /* Absolute Position */
@@ -44,12 +44,12 @@ a1 {
   background: rgb(255, 255, 255);
 }
 .box-1{
-  top:30px;
+  top:15px;
   left:5%;
 }
 .box-2{
-  bottom:610px;
-  left:115%;
+  bottom:600px;
+  left:50%;
 }
 .box-3{
   top:30px;
@@ -64,8 +64,8 @@ a1 {
 .imgbox {
   /* Absolute Position */
   position: relative;
-  width:210px;
-  height: 210px;
+  width:300px;
+  height:300px;
   color: rgb(255, 255, 255);
   background: rgb(255, 253, 253);
 }
